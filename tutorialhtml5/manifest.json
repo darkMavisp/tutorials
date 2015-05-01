@@ -1,0 +1,17 @@
+{
+    "name": "tutorialhtml5.darkmavisp",
+    "description": "description of tutorialhtml5",
+    "architecture": "all",
+    "title": "tutorialhtml5",
+    "hooks": {
+        "tutorial html5 app": {
+            "apparmor": "tutorial html5 app.apparmor",
+            "desktop":  "tutorial html5 app.desktop"
+        }
+    },
+    "version": "0.1",
+    "maintainer": "mark davies <mavispmavis@gmail.com>",
+    "framework" : "ubuntu-sdk-15.04"
+}
+
+
